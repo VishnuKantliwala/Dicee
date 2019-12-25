@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="b1">उलट पुलट करें</string>
+    <string name="b1_desc">उलट पुलट करें</string>
+    <string name="logo_desc">logo of application</string>
+    <string name="dice_1_desc">dice 1</string>
+    <string name="dice_2_desc">dice 2</string>
+</resources>
